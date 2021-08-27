@@ -2,7 +2,7 @@ const scriptName = "HighSchool Timetable.js"
 
 
 let KEY = "API 키";
-let ATPT_OFCDC_SC_CODE = "지역코드";
+let ATPT_OFCDC_SC_CODE = "시도교육청코드";
 let SD_SCHUL_CODE = "학교표준코드";
 let grade = "학년";
 let classnum = "반";
