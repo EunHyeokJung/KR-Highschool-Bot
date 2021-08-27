@@ -2,8 +2,8 @@ const scriptName = "School_LaunchMenu.js"
 
 
 
-const ATPT_OFCDC_SC_CODE = "지역코드(AreaCode)";
-const SD_SCHUL_CODE = "학교표준코드(School Code)";
+const ATPT_OFCDC_SC_CODE = "시도교육청코드";
+const SD_SCHUL_CODE = "학교표준코드";
 const KEY = "나이스교육정보개방포털 API KEY를 입력하세요.";
 let SchoolName = "OO고";
 
