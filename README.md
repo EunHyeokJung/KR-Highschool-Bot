@@ -14,7 +14,7 @@ https://open.neis.go.kr/portal/mainPage.do
 https://open.neis.go.kr/portal/data/service/selectServicePage.do?page=1&rows=10&sortColumn=&sortDirection=&infId=OPEN17020190531110010104913&infSeq=1
 
 
-|변수명|타입|변수설명|샘플|
+|변수명|타입|변수설명|예시|
 |------|---|-----------|----|
 |KEY|STRING|API 사용시 필요한 인증키|din8f2ef9efnd0euhfwnofj|
 |ATPT_OFCDC_SC_CODE|STRING|시도교육청코드|J10|
@@ -26,7 +26,7 @@ Timetable.js
 
 고등학교 시간표 정보는 나이스 교육정보 개방 포털에서 가져옵니다.
 
-|변수명|타입|변수설명|샘플|
+|변수명|타입|변수설명|예시|
 |------|---|-----------|----|
 |KEY|STRING|API 사용시 필요한 인증키|din8f2ef9efnd0euhfwnofj|
 |ATPT_OFCDC_SC_CODE|STRING|시도교육청코드|J10|
