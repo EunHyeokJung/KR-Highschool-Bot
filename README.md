@@ -19,7 +19,7 @@ https://open.neis.go.kr/portal/data/service/selectServicePage.do?page=1&rows=10&
 |KEY|STRING|API 사용시 필요한 인증키|din8f2ef9efnd0euhfwnofj|
 |ATPT_OFCDC_SC_CODE|STRING|시도교육청코드|J10|
 |SD_SCHUL_CODE|STRING|학교 표준 코드|1234567|
-|SchoolName|STRING|학교 명|테스트고, 테스트중, 테스트고등학교|
+|SchoolName|STRING|학교 명|테스트고등학교|
 
 
 Timetable.js
